@@ -1,5 +1,5 @@
 # SQL-Projects
-# 📊 Data Technician Week 3 — Databases & SQL
+# 📊 Data Technician Bootcamp — Databases & SQL
 
 This repository contains my **Week 3 Data Technician workbook and SQL practice files**.
 The work focuses on database design, SQL queries, relational databases, NoSQL databases, and SQL joins.
